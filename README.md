@@ -62,19 +62,19 @@ Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi model
 
 ###  Günlük Toplantılar (Daily Scrum)
 - Günlük ilerlemeler ve engeller (blocker) WhatsApp grubunda paylaşılarak takım içinde takip edildi.
--  [whatsapp görseller](./wp_ss)
+- [WhatsApp görseller](./wp_ss)
 ---
 
 ###  Sprint Panosu
 - Sprint görevleri Trello üzerinde takip edilerek görsellerle belgelendi.
-[trello görseller](./trello_ss)
+- [Trello görseller](./trello_ss)
 
 ---
 
 ###  Mevcut Uygulama Durumu
 - Web kullanıcı arayüzünde temel sayfalar ve yönlendirmeler oluşturuldu.
 - Makine öğrenmesi API’leri için temel sözleşmeler (endpoint planı) belirlendi.
-[web görseller](./app_ss)
+- [Web görseller](./app_ss)
 
 ---
 
