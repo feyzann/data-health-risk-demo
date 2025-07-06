@@ -35,7 +35,7 @@ Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi model
 
 
 <details>
-<summary> SPRINT 1 </summary>
+<summary> <h3> SPRINT 1 </h3> </summary>
 
 - 📅 **Sprint Süresi:** 20 Haziran – 6 Temmuz
 - 🎯 **Planlanan Kapasite:** ~100 iş puanı
