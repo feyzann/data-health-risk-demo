@@ -2,7 +2,6 @@
 
 ## Takım İsmi
 MedOps Takımı
-> (Daha akıllı sağlık operasyonları için yapay zekâ destekli çözümler)
 
 ## Takım Üyeleri
 - [Feyzanur İnan](https://github.com/feyzann) - Scrum Master
