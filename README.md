@@ -1,4 +1,4 @@
-# 🩺 Health Risk Assessment
+#  Health Risk Assessment
 
 ## Takım İsmi
 DataMedAI Takımı
