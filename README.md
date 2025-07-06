@@ -34,7 +34,8 @@ Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi model
 - Sağlık analitiği uygulamalarına ilgi duyanlar
 
 
-## 🚀 Sprint 1
+<details>
+<summary>🚀 Sprint 1</summary>
 
 - 📅 **Sprint Süresi:** 20 Haziran – 6 Temmuz
 - 🎯 **Planlanan Kapasite:** ~100 iş puanı
@@ -102,3 +103,4 @@ Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi model
 - ✅ 4 farklı veri seti incelenip versiyonlanmış veri deposuna eklendi.
 - ✅ İlk modeller eğitildi ve performans metrikleri kaydedildi.
 - ✅ Kullanıcı arayüzünde temel sayfalar ve bileşenler %35 oranında tamamlandı.
+</details>
