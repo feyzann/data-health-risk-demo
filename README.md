@@ -5,11 +5,11 @@ MedOps Takımı
 > (Daha akıllı sağlık operasyonları için yapay zekâ destekli çözümler)
 
 ## Takım Üyeleri
-- Feyzanur İnan - Scrum Master
-- Büşra Deveci - Product Owner
-- Eren Cice - Developer
-- Rabia Yaşa - Developer
-- Onur Kayabaş - Developer
+- [Feyzanur İnan](https://github.com/feyzann) - Scrum Master
+- [Büşra Deveci](https://github.com/busradeveci) - Product Owner
+- [Eren Cice](https://github.com/erencice) - Developer
+- [Rabia Yaşa](https://github.com/rabiayasa4) - Developer
+- [Onur Kayabaş](https://github.com/Onurkayabas1) - Developer
 
 ## Ürün İsmi
 MediRisk Web Uygulaması
