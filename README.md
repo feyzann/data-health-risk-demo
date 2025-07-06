@@ -17,7 +17,7 @@ MediRisk Web Uygulaması
 
 ## Product Backlog URL
 MedOps Trello Backlog Board  
-> (Trello linkini buraya ekleyebilirsin)
+- Backlog, sprint raporlarındaki ekran görüntüleriyle belgelendi.
 
 ## Ürün Açıklaması
 MediRisk uygulaması; kronik böbrek hastalığı, fetal sağlık, meme kanseri ve depresyon gibi çeşitli sağlık durumları için farklı veri setlerini kullanarak, kullanıcıların kendi sağlık risklerini değerlendirmelerine olanak tanıyan bir web platformudur. 
@@ -62,20 +62,19 @@ Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi model
 
 ###  Günlük Toplantılar (Daily Scrum)
 - Günlük ilerlemeler ve engeller (blocker) WhatsApp grubunda paylaşılarak takım içinde takip edildi.
--  [Daily Scrum WhatsApp Görseli](./images/daily_scrum_sprint1.png)
-
+-  [wp_ss klasörüne git](./wp_ss)
 ---
 
 ###  Sprint Panosu
 - Sprint görevleri Trello üzerinde takip edilerek görsellerle belgelendi.
-![Sprint Panosu](./images/trello_sprint1.png)
+[trello_ss klasörüne git](./trello_ss)
 
 ---
 
 ###  Mevcut Uygulama Durumu
 - Web kullanıcı arayüzünde temel sayfalar ve yönlendirmeler oluşturuldu.
 - Makine öğrenmesi API’leri için temel sözleşmeler (endpoint planı) belirlendi.
-![Web Durumu](./images/web_screenshot_sprint1.png)
+[app_ss klasörüne git](./app_ss)
 
 ---
 
