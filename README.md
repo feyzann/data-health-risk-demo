@@ -1,7 +1,8 @@
-#  Health Risk Assessment
+#  MediRisk
 
 ## Takım İsmi
-DataMedAI Takımı
+MedOps Takımı
+> (Daha akıllı sağlık operasyonları için yapay zekâ destekli çözümler)
 
 ## Takım Üyeleri
 - Feyzanur İnan - Scrum Master
@@ -11,14 +12,15 @@ DataMedAI Takımı
 - Onur Kayabaş - Developer
 
 ## Ürün İsmi
-Health Risk Assessment Web Uygulaması
+MediRisk Web Uygulaması
+> (Sağlık risklerini daha oluşmadan önce tahmin edin)
 
 ## Product Backlog URL
-DataMedAI Trello Backlog Board  
+MedOps Trello Backlog Board  
 > (Trello linkini buraya ekleyebilirsin)
 
 ## Ürün Açıklaması
-Health Risk Assessment uygulaması; kronik böbrek hastalığı, fetal sağlık, meme kanseri ve depresyon gibi çeşitli sağlık durumları için farklı veri setlerini kullanarak, kullanıcıların kendi sağlık risklerini değerlendirmelerine olanak tanıyan bir web platformudur. 
+MediRisk uygulaması; kronik böbrek hastalığı, fetal sağlık, meme kanseri ve depresyon gibi çeşitli sağlık durumları için farklı veri setlerini kullanarak, kullanıcıların kendi sağlık risklerini değerlendirmelerine olanak tanıyan bir web platformudur. 
 Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi modelleri aracılığıyla risk skorlarını öğrenirler.
 
 ## Ürün Özellikleri
@@ -37,13 +39,13 @@ Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi model
 <details>
 <summary> <h3> SPRINT 1 </h3> </summary>
 
-- 📅 **Sprint Süresi:** 20 Haziran – 6 Temmuz
-- 🎯 **Planlanan Kapasite:** ~100 iş puanı
-- 📝 **Planlama mantığı:** Toplamda yaklaşık 340 iş puanı olarak tahmin edilen proje iş yükü, sprint’lere bölündü. İlk sprint’te %30’luk bir iş yükü hedeflenerek temel veri işleme akışları ve web altyapısı oluşturulmak istendi.
+-  **Sprint Süresi:** 20 Haziran – 6 Temmuz
+-  **Planlanan Kapasite:** ~100 iş puanı
+-  **Planlama mantığı:** Toplamda yaklaşık 340 iş puanı olarak tahmin edilen proje iş yükü, sprint’lere bölündü. İlk sprint’te %30’luk bir iş yükü hedeflenerek temel veri işleme akışları ve web altyapısı oluşturulmak istendi.
 
 ---
 
-### ✅ Tamamlanan Çalışmalar
+###  Tamamlanan Çalışmalar
 - **Veri Setlerinin Toplanması ve İncelenmesi**
   - Chronic Kidney Disease, Fetal Health, Breast Cancer ve Student Depression veri setleri projeye dahil edildi.
   - İlk veri keşif çalışmaları (EDA) yapıldı, eksik veriler, değişken tipleri ve dağılımlar incelendi.
@@ -58,40 +60,40 @@ Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi model
 
 ---
 
-### 🗓️ Günlük Toplantılar (Daily Scrum)
+###  Günlük Toplantılar (Daily Scrum)
 - Günlük ilerlemeler ve engeller (blocker) WhatsApp grubunda paylaşılarak takım içinde takip edildi.
-- 📎 [Daily Scrum WhatsApp Görseli](./images/daily_scrum_sprint1.png)
+-  [Daily Scrum WhatsApp Görseli](./images/daily_scrum_sprint1.png)
 
 ---
 
-### 🗂️ Sprint Panosu
+###  Sprint Panosu
 - Sprint görevleri Trello üzerinde takip edilerek görsellerle belgelendi.
 ![Sprint Panosu](./images/trello_sprint1.png)
 
 ---
 
-### 💻 Mevcut Uygulama Durumu
+###  Mevcut Uygulama Durumu
 - Web kullanıcı arayüzünde temel sayfalar ve yönlendirmeler oluşturuldu.
 - Makine öğrenmesi API’leri için temel sözleşmeler (endpoint planı) belirlendi.
 ![Web Durumu](./images/web_screenshot_sprint1.png)
 
 ---
 
-### 📝 Sprint Gözden Geçirme (Review)
+###  Sprint Gözden Geçirme (Review)
 - Veri setleri başarıyla sisteme entegre edildi, ilk makine öğrenmesi modelleri eğitildi ve temel performans raporları çıkarıldı.
 - Frontend (React) ve backend (FastAPI + scikit-learn) teknolojilerine kesin olarak karar verildi.
 - Son toplantıda, bir sonraki sprint için öncelikli işlerin tahmin ve veri tahmin servisleri olmasına karar verildi.
 
 ---
 
-### 🔍 Sprint Değerlendirmesi (Retrospective)
+###  Sprint Değerlendirmesi (Retrospective)
 - Modellerin daha iyi AUC skoru vermesi için parametre ayarlarına odaklanılacak.
 - Web özelliklerinin daha hızlı tamamlanabilmesi için haftasonu ek geliştirme oturumları yapılacak.
 - Test kapsamının artırılması ve sürekli entegrasyon (CI) süreçlerinin başlatılması için backlog’a yeni işler eklendi.
 
 ---
 
-## 🚀 Bir Sonraki Sprint Hedefleri
+##  Bir Sonraki Sprint Hedefleri
 - Kullanıcı veri yükleme ve tahmin API uç noktalarını geliştirmek.
 - Eğitim modellerinin kapsamlı testlerini yaparak doğruluk ve güvenilirliklerini sağlamak.
 - Kullanıcı risk skorlarını grafiklerle görselleştirecek bileşenleri oluşturmak.
@@ -99,8 +101,8 @@ Kullanıcılar sağlık verilerini girerek, eğitilmiş makine öğrenmesi model
 
 ---
 
-## 📈 Takip Edilen Metrikler
-- ✅ 4 farklı veri seti incelenip versiyonlanmış veri deposuna eklendi.
-- ✅ İlk modeller eğitildi ve performans metrikleri kaydedildi.
-- ✅ Kullanıcı arayüzünde temel sayfalar ve bileşenler %35 oranında tamamlandı.
+##  Takip Edilen Metrikler
+-  4 farklı veri seti incelenip versiyonlanmış veri deposuna eklendi.
+-  İlk modeller eğitildi ve performans metrikleri kaydedildi.
+-  Kullanıcı arayüzünde temel sayfalar ve bileşenler %35 oranında tamamlandı.
 </details>
